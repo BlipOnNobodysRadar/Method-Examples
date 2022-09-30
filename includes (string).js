@@ -14,7 +14,7 @@ let str = "A string.";
 let substring = "string";
 
 // Example 1
-// Searches for 'string' within str, returning true
+// Searches for 'string' within str, returning true. The search begins at index 0 by default, therefore searching the entire string.
 console.log(`Example 1: ${str.includes(substring)}`);
 
 // Example 2
@@ -22,5 +22,5 @@ console.log(`Example 1: ${str.includes(substring)}`);
 console.log(`Example 2: ${str.includes(substring, 4)}`);
 
 // Example 3
-//Searches for 'string' within str beginning at index 1 (' '), returning true because the full substring ('string') is found past index 1.
+// Searches for 'string' within str beginning at index 1 (' '), returning true because the full substring ('string') is found past index 1.
 console.log(`Example 3: ${str.includes(substring, 1)}`);
