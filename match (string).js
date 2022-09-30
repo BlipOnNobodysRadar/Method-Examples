@@ -1,5 +1,5 @@
 /*
-indexOf() 
+includes() 
 
 Type: String
 
