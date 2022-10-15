@@ -4,7 +4,7 @@ String.prototype.trim()
 Type: String
 
 Description: 
-Returns a new string identical to the original string, but with whitespace removed from both ends.
+Removes whitespace from both ends of a string and returns a new string.
 
 Time complexity: O(n) where n is the amount of whitespace characters at the ends.
 Important to remember n here isn't the entire length of the string (unless it's all whitespace), but only the length of whitespace at either end.
