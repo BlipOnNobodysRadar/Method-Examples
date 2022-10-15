@@ -1,5 +1,5 @@
 /*
-toUpperCase()
+toLowerCase()
 
 Type: String
 
