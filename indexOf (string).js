@@ -1,5 +1,5 @@
 /*
-indexOf() 
+String.prototype.indexOf() 
 
 Type: String
 

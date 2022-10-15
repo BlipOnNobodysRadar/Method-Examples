@@ -1,5 +1,5 @@
 /*
-concat() 
+String.prototype.concat() 
 
 Type: String
 

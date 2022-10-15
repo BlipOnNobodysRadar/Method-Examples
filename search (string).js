@@ -1,5 +1,5 @@
 /*
-search() 
+String.prototype.search() 
 
 Type: String
 

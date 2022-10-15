@@ -1,5 +1,5 @@
 /*
-split() 
+String.prototype.split() 
 
 Type: String
 

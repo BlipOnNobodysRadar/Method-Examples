@@ -1,5 +1,5 @@
 /*
-includes() 
+String.prototype.includes() 
 
 Type: String
 

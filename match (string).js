@@ -1,5 +1,5 @@
 /*
-match() 
+String.prototype.match() 
 
 Type: String
 

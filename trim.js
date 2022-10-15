@@ -1,5 +1,5 @@
 /*
-trim()
+String.prototype.trim()
 
 Type: String
 

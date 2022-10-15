@@ -1,5 +1,5 @@
 /*
-slice() 
+String.prototype.slice() 
 
 Type: String
 

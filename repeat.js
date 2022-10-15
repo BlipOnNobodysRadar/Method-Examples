@@ -1,5 +1,5 @@
 /*
-repeat() 
+String.prototype.repeat() 
 
 Type: String
 
@@ -7,7 +7,7 @@ Description:
 returns a new string consisting of the string it was called upon repeated and concatened together X times
 Takes in a positive integer as the count argument
 
-Time complexity: 
+Time complexity: O(n) where n is the number of concatenations.
 */
 
 let str = "Repeat me.";

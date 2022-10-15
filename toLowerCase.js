@@ -1,5 +1,5 @@
 /*
-toLowerCase()
+String.prototype.toLowerCase()
 
 Type: String
 

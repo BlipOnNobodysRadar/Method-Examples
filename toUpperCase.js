@@ -1,5 +1,5 @@
 /*
-toUpperCase()
+String.prototype.toUpperCase()
 
 Type: String
 

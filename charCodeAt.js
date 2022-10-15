@@ -1,5 +1,5 @@
 /*
-charCodeAt() 
+String.prototype.charCodeAt() 
 
 Type: String
 

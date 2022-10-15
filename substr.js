@@ -1,5 +1,5 @@
 /*
-substr()
+String.prototype.substr()
 
 Type: String
 

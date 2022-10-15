@@ -1,5 +1,5 @@
 /*
-charAt() 
+String.prototype.charAt() 
 
 Type: String
 
