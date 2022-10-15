@@ -15,7 +15,8 @@ the provided positive integer amount. Skips any leftover text at that point.
 The separator can be a string, a regexp, or any object with a Symbol.split() method. If given an empty string, returns an array containing
 each individual character of the string as its entries.
 
-Time complexity: O(n)
+Time complexity: Without a delimiter O(n), 
+with a delimiter O(n * m) where n is string length and m is delimiter length.
 */
 
 let str = "A string, with a comma";
