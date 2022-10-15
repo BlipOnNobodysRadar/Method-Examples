@@ -11,7 +11,7 @@ Slices up to the ending index, but does not include the ending index in the slic
 
 If given a negative index, begins from the back of the string.
 
-Time complexity: O(n)
+Time complexity: O(1); the V8 engine has optimized string slicing to O(1)
 */
 
 let str = "A string.";
