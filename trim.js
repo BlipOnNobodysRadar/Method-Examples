@@ -6,7 +6,7 @@ Type: String
 Description: 
 Returns a new string identical to the original string, but with whitespace removed from both ends.
 
-Time complexity: O(n) where n is the amount of whitespace characters at either end.
+Time complexity: O(n) where n is the amount of whitespace characters at the ends.
 Important to remember n here isn't the entire length of the string (unless it's all whitespace), but only the length of whitespace at either end.
 */
 
