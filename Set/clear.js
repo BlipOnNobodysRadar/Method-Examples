@@ -7,7 +7,7 @@ Description:
 Removes all elements from a Set.
 
 
-Time complexity: unsure
+Time complexity: O(1)
 */
 
 let aSet = new Set();
